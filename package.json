@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-webpd_porres_examples",
   "main": "index.js",
-  "description": "An extension for gitbook-plugin-webpd many pd examples",
+  "description": "An extension for gitbook-plugin-webpd with many pd examples",
   "version": "0.0.1",
   "keywords": [
     "webpd",
