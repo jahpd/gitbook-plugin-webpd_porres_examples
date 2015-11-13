@@ -1,0 +1,9 @@
+#N canvas -3 -23 450 300 10;
+#X msg -413 -12 one;
+#X msg -269 -14 one two three;
+#X obj -413 20 print;
+#X text -437 -35 one-element;
+#X obj -269 19 print;
+#X text -275 -39 three-elements;
+#X connect 0 0 2 0;
+#X connect 1 0 4 0;

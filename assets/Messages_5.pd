@@ -1,0 +1,7 @@
+#N canvas -3 -23 450 300 10;
+#X obj -1222 177 print;
+#X msg -1222 40 23562;
+#X msg -1222 108 nada;
+#X text -1165 39 <- click;
+#X connect 1 0 2 0;
+#X connect 2 0 0 0;
